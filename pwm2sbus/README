@@ -1,0 +1,1 @@
+PWM to sbus encoder for Arduino Nano. PWM signals are read using interrupts
